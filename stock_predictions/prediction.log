@@ -1,2 +1,18 @@
 2025-05-27 19:07:46,484 - __main__ - INFO - Starting stock prediction system
 2025-05-27 19:07:46,485 - __main__ - INFO - Downloading data for AAPL
+2025-05-27 19:07:49,399 - __main__ - INFO - Successfully downloaded 1255 records for AAPL
+2025-05-27 19:07:50,173 - __main__ - INFO - Plot saved to stock_predictions\AAPL_prediction.png
+2025-05-27 19:07:50,181 - __main__ - INFO - Downloading data for MSFT
+2025-05-27 19:07:50,456 - __main__ - INFO - Successfully downloaded 1255 records for MSFT
+2025-05-27 19:07:51,116 - __main__ - INFO - Plot saved to stock_predictions\MSFT_prediction.png
+2025-05-27 19:07:51,117 - __main__ - INFO - Downloading data for GOOGL
+2025-05-27 19:07:51,364 - __main__ - INFO - Successfully downloaded 1255 records for GOOGL
+2025-05-27 19:07:52,048 - __main__ - INFO - Plot saved to stock_predictions\GOOGL_prediction.png
+2025-05-27 19:07:52,049 - __main__ - INFO - Downloading data for AMZN
+2025-05-27 19:07:52,303 - __main__ - INFO - Successfully downloaded 1255 records for AMZN
+2025-05-27 19:07:52,982 - __main__ - INFO - Plot saved to stock_predictions\AMZN_prediction.png
+2025-05-27 19:07:52,984 - __main__ - INFO - Downloading data for TSLA
+2025-05-27 19:07:53,206 - __main__ - INFO - Successfully downloaded 1255 records for TSLA
+2025-05-27 19:07:53,894 - __main__ - INFO - Plot saved to stock_predictions\TSLA_prediction.png
+2025-05-27 19:07:53,895 - __main__ - INFO - Completed predictions for 5/5 stocks
+2025-05-27 19:07:53,912 - __main__ - INFO - Results summary saved to stock_predictions\prediction_summary.csv
