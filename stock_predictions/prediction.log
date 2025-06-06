@@ -1,18 +1,18 @@
-2025-05-28 11:19:23,980 - __main__ - INFO - Starting stock prediction system
-2025-05-28 11:19:23,982 - __main__ - INFO - Downloading data for AAPL
-2025-05-28 11:19:24,584 - __main__ - INFO - Successfully downloaded 1255 records for AAPL
-2025-05-28 11:19:26,324 - __main__ - INFO - Plot saved to stock_predictions\AAPL_prediction.png
-2025-05-28 11:19:26,356 - __main__ - INFO - Downloading data for MSFT
-2025-05-28 11:19:26,776 - __main__ - INFO - Successfully downloaded 1255 records for MSFT
-2025-05-28 11:19:28,449 - __main__ - INFO - Plot saved to stock_predictions\MSFT_prediction.png
-2025-05-28 11:19:28,451 - __main__ - INFO - Downloading data for GOOGL
-2025-05-28 11:19:28,798 - __main__ - INFO - Successfully downloaded 1255 records for GOOGL
-2025-05-28 11:19:30,494 - __main__ - INFO - Plot saved to stock_predictions\GOOGL_prediction.png
-2025-05-28 11:19:30,497 - __main__ - INFO - Downloading data for AMZN
-2025-05-28 11:19:30,917 - __main__ - INFO - Successfully downloaded 1255 records for AMZN
-2025-05-28 11:19:32,641 - __main__ - INFO - Plot saved to stock_predictions\AMZN_prediction.png
-2025-05-28 11:19:32,643 - __main__ - INFO - Downloading data for TSLA
-2025-05-28 11:19:33,071 - __main__ - INFO - Successfully downloaded 1255 records for TSLA
-2025-05-28 11:19:34,810 - __main__ - INFO - Plot saved to stock_predictions\TSLA_prediction.png
-2025-05-28 11:19:34,811 - __main__ - INFO - Completed predictions for 5/5 stocks
-2025-05-28 11:19:34,821 - __main__ - INFO - Results summary saved to stock_predictions\prediction_summary.csv
+2025-06-06 09:57:17,470 - __main__ - INFO - Starting stock prediction system
+2025-06-06 09:57:17,472 - __main__ - INFO - Downloading data for AAPL
+2025-06-06 09:57:18,004 - __main__ - INFO - Successfully downloaded 1256 records for AAPL
+2025-06-06 09:57:19,790 - __main__ - INFO - Plot saved to stock_predictions\AAPL_prediction.png
+2025-06-06 09:57:19,792 - __main__ - INFO - Downloading data for MSFT
+2025-06-06 09:57:20,251 - __main__ - INFO - Successfully downloaded 1256 records for MSFT
+2025-06-06 09:57:22,033 - __main__ - INFO - Plot saved to stock_predictions\MSFT_prediction.png
+2025-06-06 09:57:22,034 - __main__ - INFO - Downloading data for GOOGL
+2025-06-06 09:57:22,555 - __main__ - INFO - Successfully downloaded 1256 records for GOOGL
+2025-06-06 09:57:24,333 - __main__ - INFO - Plot saved to stock_predictions\GOOGL_prediction.png
+2025-06-06 09:57:24,335 - __main__ - INFO - Downloading data for AMZN
+2025-06-06 09:57:24,855 - __main__ - INFO - Successfully downloaded 1256 records for AMZN
+2025-06-06 09:57:26,524 - __main__ - INFO - Plot saved to stock_predictions\AMZN_prediction.png
+2025-06-06 09:57:26,526 - __main__ - INFO - Downloading data for TSLA
+2025-06-06 09:57:26,931 - __main__ - INFO - Successfully downloaded 1256 records for TSLA
+2025-06-06 09:57:28,660 - __main__ - INFO - Plot saved to stock_predictions\TSLA_prediction.png
+2025-06-06 09:57:28,661 - __main__ - INFO - Completed predictions for 5/5 stocks
+2025-06-06 09:57:28,667 - __main__ - INFO - Results summary saved to stock_predictions\prediction_summary.csv
